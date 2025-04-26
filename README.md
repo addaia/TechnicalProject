@@ -55,7 +55,7 @@ N/A
 
 - `lllm.ipynb`: Last cell summarises the results (Figure 4.6). Which are:
 
-![Summary](./Report/summary_results.pdf)
+![Summary](./Report/summary_results.png)
 
 #### Discussion
 
