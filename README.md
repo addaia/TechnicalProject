@@ -51,6 +51,7 @@ N/A
 
 #### 4.2 Analysis into small LLMs
 
+- `test_init_model.py`: Code to test base accuracy performance and inference time. 
 #### 4.3 Summary
 
 - `lllm.ipynb`: Last cell summarises the results (Figure 4.6). Which are:
