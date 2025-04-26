@@ -1,4 +1,4 @@
-# TechnicalProject - A Comparative Analysis of Mathematical Reasoning in Large Language Models
+# A Comparative Analysis of Mathematical Reasoning in Large Language Models
 
 ## Abstract
 This report explores the importance of LLMs within mathematical reasoning. Mathematical problem-solving provides a benchmark for AI models to test their innate reasoning abilities relative to humans. The rise of LLMs in the past few years has sparked an interest in understanding the capabilities of these models. As they grow in scale (current state-of-the-art LLMs have billions of parameters). Questions arise about whether the sole path to increasing performance is through increased parameter size or if targeted training methods may enhance models further at a fraction of the training cost. To understand this relationship further, two compact models are studied (\texttt{TinyLLM} and \texttt{DistilGPT2}, with 10M and 82M, respectively). To provide context to these results, Machine Learning algorithms provide a baseline benchmark and larger LLMs upper-bound performance. The GSM8K benchmark is employed to quantify the models' ability to reason.
@@ -25,11 +25,19 @@ You can view the poster here:
 This folder contains the core experiments, methodology, and additional code required for the detailed analysis in the report. It includes everything from data preprocessing to model training, evaluation, and result analysis.
 
 ### File Descriptions
+
 #### Introduction
+N/A
 
 #### Literature Review
+N/A
 
 #### Methodology
+##### 3.2 Dataset
+- **GSM8k** 
+    - `plots_report.ipynb`: GSM8K distribution idea (corresponds to Table 3.1 and Fugure 3.1).
+- **GSM8K-v2**
+    - `new_dataset.ipynb`: GSM8K-v2 creation incluisve of pipeline + manual labelling. The output was uploaded to Hugging Face, available [here](https://huggingface.co/datasets/addaia/gsm8k-v2).
 
 #### Results
 
