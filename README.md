@@ -52,6 +52,9 @@ N/A
 #### 4.2 Analysis into small LLMs
 
 - `test_init_model.py`: Code to test base accuracy performance and inference time. 
+- `*.out` files: contain the results of the experiments (accuracy per epoch).
+- `results_plot.ipynb`: plots the results from the pre vious files (corresponds to Figures and Tables 4.2-4.5)
+
 #### 4.3 Summary
 
 - `lllm.ipynb`: Last cell summarises the results (Figure 4.6). Which are:

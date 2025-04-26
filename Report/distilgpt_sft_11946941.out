@@ -1,0 +1,302 @@
+Epoch 0: Train Accuracy = 0.0052, Eval Accuracy = 0.0099
+Epoch 1: Train Accuracy = 0.0007, Eval Accuracy = 0.0015
+{'loss': 2.6456, 'grad_norm': 8.619328498840332, 'learning_rate': 4.9500000000000004e-05, 'epoch': 1.0}
+{'eval_loss': 2.4942548274993896, 'eval_runtime': 4.0904, 'eval_samples_per_second': 322.46, 'eval_steps_per_second': 40.338, 'epoch': 1.0}
+Epoch 2: Train Accuracy = 0.0025, Eval Accuracy = 0.0015
+{'loss': 2.3676, 'grad_norm': 8.679885864257812, 'learning_rate': 4.9e-05, 'epoch': 2.0}
+{'eval_loss': 2.448185920715332, 'eval_runtime': 4.0873, 'eval_samples_per_second': 322.706, 'eval_steps_per_second': 40.369, 'epoch': 2.0}
+Epoch 3: Train Accuracy = 0.0017, Eval Accuracy = 0.0030
+{'loss': 2.2291, 'grad_norm': 7.863559722900391, 'learning_rate': 4.85e-05, 'epoch': 3.0}
+{'eval_loss': 2.4331438541412354, 'eval_runtime': 4.0892, 'eval_samples_per_second': 322.554, 'eval_steps_per_second': 40.35, 'epoch': 3.0}
+Epoch 4: Train Accuracy = 0.0007, Eval Accuracy = 0.0008
+{'loss': 2.1189, 'grad_norm': 6.004661560058594, 'learning_rate': 4.8e-05, 'epoch': 4.0}
+{'eval_loss': 2.4464404582977295, 'eval_runtime': 4.0879, 'eval_samples_per_second': 322.66, 'eval_steps_per_second': 40.363, 'epoch': 4.0}
+Epoch 5: Train Accuracy = 0.0015, Eval Accuracy = 0.0008
+{'loss': 2.0264, 'grad_norm': 7.8254780769348145, 'learning_rate': 4.75e-05, 'epoch': 5.0}
+{'eval_loss': 2.456627368927002, 'eval_runtime': 4.0883, 'eval_samples_per_second': 322.625, 'eval_steps_per_second': 40.359, 'epoch': 5.0}
+Epoch 6: Train Accuracy = 0.0027, Eval Accuracy = 0.0015
+{'loss': 1.9413, 'grad_norm': 7.346188068389893, 'learning_rate': 4.7e-05, 'epoch': 6.0}
+{'eval_loss': 2.4704501628875732, 'eval_runtime': 4.087, 'eval_samples_per_second': 322.73, 'eval_steps_per_second': 40.372, 'epoch': 6.0}
+Epoch 7: Train Accuracy = 0.0012, Eval Accuracy = 0.0008
+{'loss': 1.8619, 'grad_norm': 8.708276748657227, 'learning_rate': 4.6500000000000005e-05, 'epoch': 7.0}
+{'eval_loss': 2.50941801071167, 'eval_runtime': 4.086, 'eval_samples_per_second': 322.808, 'eval_steps_per_second': 40.382, 'epoch': 7.0}
+Epoch 8: Train Accuracy = 0.0004, Eval Accuracy = 0.0008
+{'loss': 1.79, 'grad_norm': 8.525214195251465, 'learning_rate': 4.600000000000001e-05, 'epoch': 8.0}
+{'eval_loss': 2.5365309715270996, 'eval_runtime': 4.0879, 'eval_samples_per_second': 322.663, 'eval_steps_per_second': 40.363, 'epoch': 8.0}
+Epoch 9: Train Accuracy = 0.0009, Eval Accuracy = 0.0008
+{'loss': 1.7175, 'grad_norm': 6.998418807983398, 'learning_rate': 4.55e-05, 'epoch': 9.0}
+{'eval_loss': 2.5816240310668945, 'eval_runtime': 4.0883, 'eval_samples_per_second': 322.627, 'eval_steps_per_second': 40.359, 'epoch': 9.0}
+Epoch 10: Train Accuracy = 0.0017, Eval Accuracy = 0.0023
+{'loss': 1.6535, 'grad_norm': 8.142319679260254, 'learning_rate': 4.5e-05, 'epoch': 10.0}
+{'eval_loss': 2.625013589859009, 'eval_runtime': 4.0876, 'eval_samples_per_second': 322.68, 'eval_steps_per_second': 40.366, 'epoch': 10.0}
+Epoch 11: Train Accuracy = 0.0037, Eval Accuracy = 0.0023
+{'loss': 1.5877, 'grad_norm': 8.43269157409668, 'learning_rate': 4.4500000000000004e-05, 'epoch': 11.0}
+{'eval_loss': 2.6723999977111816, 'eval_runtime': 4.0868, 'eval_samples_per_second': 322.744, 'eval_steps_per_second': 40.374, 'epoch': 11.0}
+Epoch 12: Train Accuracy = 0.0055, Eval Accuracy = 0.0015
+{'loss': 1.5283, 'grad_norm': 10.248229026794434, 'learning_rate': 4.4000000000000006e-05, 'epoch': 12.0}
+{'eval_loss': 2.7242467403411865, 'eval_runtime': 4.0873, 'eval_samples_per_second': 322.709, 'eval_steps_per_second': 40.369, 'epoch': 12.0}
+Epoch 13: Train Accuracy = 0.0059, Eval Accuracy = 0.0038
+{'loss': 1.4693, 'grad_norm': 9.236063957214355, 'learning_rate': 4.35e-05, 'epoch': 13.0}
+{'eval_loss': 2.7678046226501465, 'eval_runtime': 4.0902, 'eval_samples_per_second': 322.481, 'eval_steps_per_second': 40.341, 'epoch': 13.0}
+Epoch 14: Train Accuracy = 0.0106, Eval Accuracy = 0.0045
+{'loss': 1.4126, 'grad_norm': 8.924066543579102, 'learning_rate': 4.3e-05, 'epoch': 14.0}
+{'eval_loss': 2.8257036209106445, 'eval_runtime': 4.0866, 'eval_samples_per_second': 322.763, 'eval_steps_per_second': 40.376, 'epoch': 14.0}
+Epoch 15: Train Accuracy = 0.0080, Eval Accuracy = 0.0023
+{'loss': 1.3579, 'grad_norm': 10.075199127197266, 'learning_rate': 4.25e-05, 'epoch': 15.0}
+{'eval_loss': 2.9097349643707275, 'eval_runtime': 4.0885, 'eval_samples_per_second': 322.616, 'eval_steps_per_second': 40.358, 'epoch': 15.0}
+Epoch 16: Train Accuracy = 0.0095, Eval Accuracy = 0.0045
+{'loss': 1.3077, 'grad_norm': 9.931374549865723, 'learning_rate': 4.2e-05, 'epoch': 16.0}
+{'eval_loss': 2.9428136348724365, 'eval_runtime': 4.09, 'eval_samples_per_second': 322.497, 'eval_steps_per_second': 40.343, 'epoch': 16.0}
+Epoch 17: Train Accuracy = 0.0139, Eval Accuracy = 0.0023
+{'loss': 1.2604, 'grad_norm': 10.438579559326172, 'learning_rate': 4.15e-05, 'epoch': 17.0}
+{'eval_loss': 2.997775077819824, 'eval_runtime': 4.0881, 'eval_samples_per_second': 322.644, 'eval_steps_per_second': 40.361, 'epoch': 17.0}
+Epoch 18: Train Accuracy = 0.0108, Eval Accuracy = 0.0023
+{'loss': 1.2131, 'grad_norm': 8.956014633178711, 'learning_rate': 4.1e-05, 'epoch': 18.0}
+{'eval_loss': 3.0424883365631104, 'eval_runtime': 4.0879, 'eval_samples_per_second': 322.659, 'eval_steps_per_second': 40.363, 'epoch': 18.0}
+Epoch 19: Train Accuracy = 0.0161, Eval Accuracy = 0.0038
+{'loss': 1.1678, 'grad_norm': 9.822579383850098, 'learning_rate': 4.05e-05, 'epoch': 19.0}
+{'eval_loss': 3.1120896339416504, 'eval_runtime': 4.0892, 'eval_samples_per_second': 322.556, 'eval_steps_per_second': 40.35, 'epoch': 19.0}
+Epoch 20: Train Accuracy = 0.0147, Eval Accuracy = 0.0015
+{'loss': 1.126, 'grad_norm': 11.485917091369629, 'learning_rate': 4e-05, 'epoch': 20.0}
+{'eval_loss': 3.164254903793335, 'eval_runtime': 4.0889, 'eval_samples_per_second': 322.578, 'eval_steps_per_second': 40.353, 'epoch': 20.0}
+Epoch 21: Train Accuracy = 0.0202, Eval Accuracy = 0.0038
+{'loss': 1.084, 'grad_norm': 7.9951605796813965, 'learning_rate': 3.9500000000000005e-05, 'epoch': 21.0}
+{'eval_loss': 3.233549118041992, 'eval_runtime': 4.0875, 'eval_samples_per_second': 322.693, 'eval_steps_per_second': 40.367, 'epoch': 21.0}
+Epoch 22: Train Accuracy = 0.0278, Eval Accuracy = 0.0038
+{'loss': 1.0459, 'grad_norm': 11.827061653137207, 'learning_rate': 3.9000000000000006e-05, 'epoch': 22.0}
+{'eval_loss': 3.260906457901001, 'eval_runtime': 4.0877, 'eval_samples_per_second': 322.673, 'eval_steps_per_second': 40.365, 'epoch': 22.0}
+Epoch 23: Train Accuracy = 0.0273, Eval Accuracy = 0.0038
+{'loss': 1.0074, 'grad_norm': 13.422721862792969, 'learning_rate': 3.85e-05, 'epoch': 23.0}
+{'eval_loss': 3.3221054077148438, 'eval_runtime': 4.084, 'eval_samples_per_second': 322.965, 'eval_steps_per_second': 40.401, 'epoch': 23.0}
+Epoch 24: Train Accuracy = 0.0289, Eval Accuracy = 0.0045
+{'loss': 0.9732, 'grad_norm': 11.811600685119629, 'learning_rate': 3.8e-05, 'epoch': 24.0}
+{'eval_loss': 3.3460354804992676, 'eval_runtime': 4.0815, 'eval_samples_per_second': 323.167, 'eval_steps_per_second': 40.426, 'epoch': 24.0}
+Epoch 25: Train Accuracy = 0.0320, Eval Accuracy = 0.0045
+{'loss': 0.9381, 'grad_norm': 9.901429176330566, 'learning_rate': 3.7500000000000003e-05, 'epoch': 25.0}
+{'eval_loss': 3.405485153198242, 'eval_runtime': 4.0804, 'eval_samples_per_second': 323.251, 'eval_steps_per_second': 40.437, 'epoch': 25.0}
+Epoch 26: Train Accuracy = 0.0590, Eval Accuracy = 0.0061
+{'loss': 0.9065, 'grad_norm': 9.149656295776367, 'learning_rate': 3.7e-05, 'epoch': 26.0}
+{'eval_loss': 3.4431731700897217, 'eval_runtime': 4.08, 'eval_samples_per_second': 323.287, 'eval_steps_per_second': 40.442, 'epoch': 26.0}
+Epoch 27: Train Accuracy = 0.0388, Eval Accuracy = 0.0045
+{'loss': 0.8761, 'grad_norm': 10.85599136352539, 'learning_rate': 3.65e-05, 'epoch': 27.0}
+{'eval_loss': 3.4823670387268066, 'eval_runtime': 4.0793, 'eval_samples_per_second': 323.339, 'eval_steps_per_second': 40.448, 'epoch': 27.0}
+Epoch 28: Train Accuracy = 0.0463, Eval Accuracy = 0.0061
+{'loss': 0.8466, 'grad_norm': 8.307035446166992, 'learning_rate': 3.6e-05, 'epoch': 28.0}
+{'eval_loss': 3.520258665084839, 'eval_runtime': 4.0806, 'eval_samples_per_second': 323.233, 'eval_steps_per_second': 40.435, 'epoch': 28.0}
+Epoch 29: Train Accuracy = 0.0464, Eval Accuracy = 0.0038
+{'loss': 0.8187, 'grad_norm': 9.322343826293945, 'learning_rate': 3.55e-05, 'epoch': 29.0}
+{'eval_loss': 3.562396764755249, 'eval_runtime': 4.0814, 'eval_samples_per_second': 323.172, 'eval_steps_per_second': 40.427, 'epoch': 29.0}
+Epoch 30: Train Accuracy = 0.0470, Eval Accuracy = 0.0023
+{'loss': 0.7906, 'grad_norm': 7.335972309112549, 'learning_rate': 3.5e-05, 'epoch': 30.0}
+{'eval_loss': 3.6051459312438965, 'eval_runtime': 4.0814, 'eval_samples_per_second': 323.174, 'eval_steps_per_second': 40.427, 'epoch': 30.0}
+Epoch 31: Train Accuracy = 0.0361, Eval Accuracy = 0.0030
+{'loss': 0.7664, 'grad_norm': 11.450943946838379, 'learning_rate': 3.45e-05, 'epoch': 31.0}
+{'eval_loss': 3.6531145572662354, 'eval_runtime': 4.0798, 'eval_samples_per_second': 323.296, 'eval_steps_per_second': 40.443, 'epoch': 31.0}
+Epoch 32: Train Accuracy = 0.0484, Eval Accuracy = 0.0045
+{'loss': 0.7411, 'grad_norm': 11.426763534545898, 'learning_rate': 3.4000000000000007e-05, 'epoch': 32.0}
+{'eval_loss': 3.6555941104888916, 'eval_runtime': 4.0806, 'eval_samples_per_second': 323.238, 'eval_steps_per_second': 40.435, 'epoch': 32.0}
+Epoch 33: Train Accuracy = 0.0510, Eval Accuracy = 0.0030
+{'loss': 0.7197, 'grad_norm': 10.4227933883667, 'learning_rate': 3.35e-05, 'epoch': 33.0}
+{'eval_loss': 3.700707197189331, 'eval_runtime': 4.0799, 'eval_samples_per_second': 323.29, 'eval_steps_per_second': 40.442, 'epoch': 33.0}
+Epoch 34: Train Accuracy = 0.0674, Eval Accuracy = 0.0038
+{'loss': 0.6975, 'grad_norm': 9.407334327697754, 'learning_rate': 3.3e-05, 'epoch': 34.0}
+{'eval_loss': 3.739431858062744, 'eval_runtime': 4.0815, 'eval_samples_per_second': 323.169, 'eval_steps_per_second': 40.427, 'epoch': 34.0}
+Epoch 35: Train Accuracy = 0.0638, Eval Accuracy = 0.0030
+{'loss': 0.6753, 'grad_norm': 11.920389175415039, 'learning_rate': 3.2500000000000004e-05, 'epoch': 35.0}
+{'eval_loss': 3.7714622020721436, 'eval_runtime': 4.0797, 'eval_samples_per_second': 323.305, 'eval_steps_per_second': 40.444, 'epoch': 35.0}
+Epoch 36: Train Accuracy = 0.0660, Eval Accuracy = 0.0038
+{'loss': 0.6553, 'grad_norm': 8.637516975402832, 'learning_rate': 3.2000000000000005e-05, 'epoch': 36.0}
+{'eval_loss': 3.7910377979278564, 'eval_runtime': 4.0807, 'eval_samples_per_second': 323.226, 'eval_steps_per_second': 40.434, 'epoch': 36.0}
+Epoch 37: Train Accuracy = 0.0676, Eval Accuracy = 0.0045
+{'loss': 0.6368, 'grad_norm': 6.5507965087890625, 'learning_rate': 3.15e-05, 'epoch': 37.0}
+{'eval_loss': 3.8345284461975098, 'eval_runtime': 4.0802, 'eval_samples_per_second': 323.271, 'eval_steps_per_second': 40.439, 'epoch': 37.0}
+Epoch 38: Train Accuracy = 0.0689, Eval Accuracy = 0.0038
+{'loss': 0.6163, 'grad_norm': 7.040081977844238, 'learning_rate': 3.1e-05, 'epoch': 38.0}
+{'eval_loss': 3.8619308471679688, 'eval_runtime': 4.0815, 'eval_samples_per_second': 323.169, 'eval_steps_per_second': 40.427, 'epoch': 38.0}
+Epoch 39: Train Accuracy = 0.0840, Eval Accuracy = 0.0030
+{'loss': 0.5993, 'grad_norm': 12.91964054107666, 'learning_rate': 3.05e-05, 'epoch': 39.0}
+{'eval_loss': 3.882413148880005, 'eval_runtime': 4.0805, 'eval_samples_per_second': 323.242, 'eval_steps_per_second': 40.436, 'epoch': 39.0}
+Epoch 40: Train Accuracy = 0.0946, Eval Accuracy = 0.0030
+{'loss': 0.584, 'grad_norm': 12.394289016723633, 'learning_rate': 3e-05, 'epoch': 40.0}
+{'eval_loss': 3.931185245513916, 'eval_runtime': 4.0789, 'eval_samples_per_second': 323.37, 'eval_steps_per_second': 40.452, 'epoch': 40.0}
+Epoch 41: Train Accuracy = 0.0798, Eval Accuracy = 0.0045
+{'loss': 0.5676, 'grad_norm': 13.360648155212402, 'learning_rate': 2.95e-05, 'epoch': 41.0}
+{'eval_loss': 3.9440953731536865, 'eval_runtime': 4.079, 'eval_samples_per_second': 323.362, 'eval_steps_per_second': 40.451, 'epoch': 41.0}
+Epoch 42: Train Accuracy = 0.0712, Eval Accuracy = 0.0045
+{'loss': 0.552, 'grad_norm': 8.715497016906738, 'learning_rate': 2.9e-05, 'epoch': 42.0}
+{'eval_loss': 3.9726946353912354, 'eval_runtime': 4.0814, 'eval_samples_per_second': 323.173, 'eval_steps_per_second': 40.427, 'epoch': 42.0}
+Epoch 43: Train Accuracy = 0.0713, Eval Accuracy = 0.0038
+{'loss': 0.5353, 'grad_norm': 9.08266544342041, 'learning_rate': 2.8499999999999998e-05, 'epoch': 43.0}
+{'eval_loss': 4.010838031768799, 'eval_runtime': 4.08, 'eval_samples_per_second': 323.288, 'eval_steps_per_second': 40.442, 'epoch': 43.0}
+Epoch 44: Train Accuracy = 0.0974, Eval Accuracy = 0.0053
+{'loss': 0.5229, 'grad_norm': 8.008854866027832, 'learning_rate': 2.8000000000000003e-05, 'epoch': 44.0}
+{'eval_loss': 4.02858829498291, 'eval_runtime': 4.0837, 'eval_samples_per_second': 322.993, 'eval_steps_per_second': 40.405, 'epoch': 44.0}
+Epoch 45: Train Accuracy = 0.0898, Eval Accuracy = 0.0053
+{'loss': 0.5101, 'grad_norm': 9.521453857421875, 'learning_rate': 2.7500000000000004e-05, 'epoch': 45.0}
+{'eval_loss': 4.050267219543457, 'eval_runtime': 4.0839, 'eval_samples_per_second': 322.974, 'eval_steps_per_second': 40.402, 'epoch': 45.0}
+Epoch 46: Train Accuracy = 0.0868, Eval Accuracy = 0.0053
+{'loss': 0.4965, 'grad_norm': 9.333024978637695, 'learning_rate': 2.7000000000000002e-05, 'epoch': 46.0}
+{'eval_loss': 4.071893692016602, 'eval_runtime': 4.0833, 'eval_samples_per_second': 323.024, 'eval_steps_per_second': 40.409, 'epoch': 46.0}
+Epoch 47: Train Accuracy = 0.0958, Eval Accuracy = 0.0053
+{'loss': 0.4854, 'grad_norm': 10.68283462524414, 'learning_rate': 2.6500000000000004e-05, 'epoch': 47.0}
+{'eval_loss': 4.091366767883301, 'eval_runtime': 4.0835, 'eval_samples_per_second': 323.007, 'eval_steps_per_second': 40.406, 'epoch': 47.0}
+Epoch 48: Train Accuracy = 0.1020, Eval Accuracy = 0.0038
+{'loss': 0.4741, 'grad_norm': 6.477815628051758, 'learning_rate': 2.6000000000000002e-05, 'epoch': 48.0}
+{'eval_loss': 4.121886730194092, 'eval_runtime': 4.0832, 'eval_samples_per_second': 323.029, 'eval_steps_per_second': 40.409, 'epoch': 48.0}
+Epoch 49: Train Accuracy = 0.0977, Eval Accuracy = 0.0053
+{'loss': 0.4627, 'grad_norm': 7.640428066253662, 'learning_rate': 2.5500000000000003e-05, 'epoch': 49.0}
+{'eval_loss': 4.143617153167725, 'eval_runtime': 4.083, 'eval_samples_per_second': 323.044, 'eval_steps_per_second': 40.411, 'epoch': 49.0}
+Epoch 50: Train Accuracy = 0.1133, Eval Accuracy = 0.0045
+{'loss': 0.4524, 'grad_norm': 10.324090003967285, 'learning_rate': 2.5e-05, 'epoch': 50.0}
+{'eval_loss': 4.168781757354736, 'eval_runtime': 4.0818, 'eval_samples_per_second': 323.142, 'eval_steps_per_second': 40.423, 'epoch': 50.0}
+Epoch 51: Train Accuracy = 0.0976, Eval Accuracy = 0.0045
+{'loss': 0.4422, 'grad_norm': 5.434184551239014, 'learning_rate': 2.45e-05, 'epoch': 51.0}
+{'eval_loss': 4.19218111038208, 'eval_runtime': 4.0817, 'eval_samples_per_second': 323.152, 'eval_steps_per_second': 40.425, 'epoch': 51.0}
+Epoch 52: Train Accuracy = 0.1113, Eval Accuracy = 0.0053
+{'loss': 0.4348, 'grad_norm': 10.79155158996582, 'learning_rate': 2.4e-05, 'epoch': 52.0}
+{'eval_loss': 4.196329116821289, 'eval_runtime': 4.0812, 'eval_samples_per_second': 323.189, 'eval_steps_per_second': 40.429, 'epoch': 52.0}
+Epoch 53: Train Accuracy = 0.1079, Eval Accuracy = 0.0053
+{'loss': 0.425, 'grad_norm': 11.357344627380371, 'learning_rate': 2.35e-05, 'epoch': 53.0}
+{'eval_loss': 4.2284321784973145, 'eval_runtime': 4.0813, 'eval_samples_per_second': 323.185, 'eval_steps_per_second': 40.429, 'epoch': 53.0}
+Epoch 54: Train Accuracy = 0.1183, Eval Accuracy = 0.0061
+{'loss': 0.415, 'grad_norm': 8.550604820251465, 'learning_rate': 2.3000000000000003e-05, 'epoch': 54.0}
+{'eval_loss': 4.249785900115967, 'eval_runtime': 4.0833, 'eval_samples_per_second': 323.023, 'eval_steps_per_second': 40.408, 'epoch': 54.0}
+Epoch 55: Train Accuracy = 0.1182, Eval Accuracy = 0.0061
+{'loss': 0.4068, 'grad_norm': 9.652897834777832, 'learning_rate': 2.25e-05, 'epoch': 55.0}
+{'eval_loss': 4.2667436599731445, 'eval_runtime': 4.0857, 'eval_samples_per_second': 322.832, 'eval_steps_per_second': 40.385, 'epoch': 55.0}
+Epoch 56: Train Accuracy = 0.1234, Eval Accuracy = 0.0068
+{'loss': 0.3997, 'grad_norm': 12.336862564086914, 'learning_rate': 2.2000000000000003e-05, 'epoch': 56.0}
+{'eval_loss': 4.27966833114624, 'eval_runtime': 4.0825, 'eval_samples_per_second': 323.084, 'eval_steps_per_second': 40.416, 'epoch': 56.0}
+Epoch 57: Train Accuracy = 0.1318, Eval Accuracy = 0.0061
+{'loss': 0.3919, 'grad_norm': 6.7479753494262695, 'learning_rate': 2.15e-05, 'epoch': 57.0}
+{'eval_loss': 4.297214508056641, 'eval_runtime': 4.0825, 'eval_samples_per_second': 323.085, 'eval_steps_per_second': 40.416, 'epoch': 57.0}
+Epoch 58: Train Accuracy = 0.1091, Eval Accuracy = 0.0045
+{'loss': 0.3842, 'grad_norm': 5.760545253753662, 'learning_rate': 2.1e-05, 'epoch': 58.0}
+{'eval_loss': 4.325047492980957, 'eval_runtime': 4.0823, 'eval_samples_per_second': 323.104, 'eval_steps_per_second': 40.419, 'epoch': 58.0}
+Epoch 59: Train Accuracy = 0.1238, Eval Accuracy = 0.0091
+{'loss': 0.3775, 'grad_norm': 14.463130950927734, 'learning_rate': 2.05e-05, 'epoch': 59.0}
+{'eval_loss': 4.339626312255859, 'eval_runtime': 4.0827, 'eval_samples_per_second': 323.072, 'eval_steps_per_second': 40.415, 'epoch': 59.0}
+Epoch 60: Train Accuracy = 0.1132, Eval Accuracy = 0.0053
+{'loss': 0.3696, 'grad_norm': 5.72317361831665, 'learning_rate': 2e-05, 'epoch': 60.0}
+{'eval_loss': 4.3709259033203125, 'eval_runtime': 4.0826, 'eval_samples_per_second': 323.082, 'eval_steps_per_second': 40.416, 'epoch': 60.0}
+Epoch 61: Train Accuracy = 0.1171, Eval Accuracy = 0.0068
+{'loss': 0.3643, 'grad_norm': 8.804065704345703, 'learning_rate': 1.9500000000000003e-05, 'epoch': 61.0}
+{'eval_loss': 4.387292385101318, 'eval_runtime': 4.0822, 'eval_samples_per_second': 323.111, 'eval_steps_per_second': 40.42, 'epoch': 61.0}
+Epoch 62: Train Accuracy = 0.1202, Eval Accuracy = 0.0038
+{'loss': 0.3602, 'grad_norm': 5.505252361297607, 'learning_rate': 1.9e-05, 'epoch': 62.0}
+{'eval_loss': 4.3925700187683105, 'eval_runtime': 4.0828, 'eval_samples_per_second': 323.065, 'eval_steps_per_second': 40.414, 'epoch': 62.0}
+Epoch 63: Train Accuracy = 0.1083, Eval Accuracy = 0.0083
+{'loss': 0.3533, 'grad_norm': 8.555100440979004, 'learning_rate': 1.85e-05, 'epoch': 63.0}
+{'eval_loss': 4.40610933303833, 'eval_runtime': 4.0824, 'eval_samples_per_second': 323.097, 'eval_steps_per_second': 40.418, 'epoch': 63.0}
+Epoch 64: Train Accuracy = 0.1168, Eval Accuracy = 0.0076
+{'loss': 0.3477, 'grad_norm': 5.895472049713135, 'learning_rate': 1.8e-05, 'epoch': 64.0}
+{'eval_loss': 4.427094459533691, 'eval_runtime': 4.0831, 'eval_samples_per_second': 323.04, 'eval_steps_per_second': 40.411, 'epoch': 64.0}
+Epoch 65: Train Accuracy = 0.1254, Eval Accuracy = 0.0053
+{'loss': 0.3435, 'grad_norm': 6.078137397766113, 'learning_rate': 1.75e-05, 'epoch': 65.0}
+{'eval_loss': 4.443060874938965, 'eval_runtime': 4.0837, 'eval_samples_per_second': 322.991, 'eval_steps_per_second': 40.404, 'epoch': 65.0}
+Epoch 66: Train Accuracy = 0.1170, Eval Accuracy = 0.0053
+{'loss': 0.3399, 'grad_norm': 16.370378494262695, 'learning_rate': 1.7000000000000003e-05, 'epoch': 66.0}
+{'eval_loss': 4.455691337585449, 'eval_runtime': 4.0823, 'eval_samples_per_second': 323.104, 'eval_steps_per_second': 40.419, 'epoch': 66.0}
+Epoch 67: Train Accuracy = 0.1151, Eval Accuracy = 0.0045
+{'loss': 0.3355, 'grad_norm': 10.542915344238281, 'learning_rate': 1.65e-05, 'epoch': 67.0}
+{'eval_loss': 4.461653709411621, 'eval_runtime': 4.0827, 'eval_samples_per_second': 323.071, 'eval_steps_per_second': 40.414, 'epoch': 67.0}
+Epoch 68: Train Accuracy = 0.1232, Eval Accuracy = 0.0061
+{'loss': 0.3287, 'grad_norm': 5.9409379959106445, 'learning_rate': 1.6000000000000003e-05, 'epoch': 68.0}
+{'eval_loss': 4.470468521118164, 'eval_runtime': 4.0821, 'eval_samples_per_second': 323.119, 'eval_steps_per_second': 40.421, 'epoch': 68.0}
+Epoch 69: Train Accuracy = 0.1243, Eval Accuracy = 0.0068
+{'loss': 0.3249, 'grad_norm': 10.2000093460083, 'learning_rate': 1.55e-05, 'epoch': 69.0}
+{'eval_loss': 4.482012748718262, 'eval_runtime': 4.083, 'eval_samples_per_second': 323.044, 'eval_steps_per_second': 40.411, 'epoch': 69.0}
+Epoch 70: Train Accuracy = 0.1282, Eval Accuracy = 0.0045
+{'loss': 0.3198, 'grad_norm': 6.485191345214844, 'learning_rate': 1.5e-05, 'epoch': 70.0}
+{'eval_loss': 4.496275424957275, 'eval_runtime': 4.0813, 'eval_samples_per_second': 323.182, 'eval_steps_per_second': 40.428, 'epoch': 70.0}
+Epoch 71: Train Accuracy = 0.1285, Eval Accuracy = 0.0053
+{'loss': 0.3179, 'grad_norm': 6.284845352172852, 'learning_rate': 1.45e-05, 'epoch': 71.0}
+{'eval_loss': 4.515989303588867, 'eval_runtime': 4.0844, 'eval_samples_per_second': 322.938, 'eval_steps_per_second': 40.398, 'epoch': 71.0}
+Epoch 72: Train Accuracy = 0.1253, Eval Accuracy = 0.0053
+{'loss': 0.3133, 'grad_norm': 9.104264259338379, 'learning_rate': 1.4000000000000001e-05, 'epoch': 72.0}
+{'eval_loss': 4.517665386199951, 'eval_runtime': 4.0845, 'eval_samples_per_second': 322.93, 'eval_steps_per_second': 40.397, 'epoch': 72.0}
+Epoch 73: Train Accuracy = 0.1179, Eval Accuracy = 0.0076
+{'loss': 0.3091, 'grad_norm': 6.010509014129639, 'learning_rate': 1.3500000000000001e-05, 'epoch': 73.0}
+{'eval_loss': 4.542880058288574, 'eval_runtime': 4.0829, 'eval_samples_per_second': 323.051, 'eval_steps_per_second': 40.412, 'epoch': 73.0}
+Epoch 74: Train Accuracy = 0.1382, Eval Accuracy = 0.0091
+{'loss': 0.3066, 'grad_norm': 7.716152667999268, 'learning_rate': 1.3000000000000001e-05, 'epoch': 74.0}
+{'eval_loss': 4.544133186340332, 'eval_runtime': 4.0829, 'eval_samples_per_second': 323.058, 'eval_steps_per_second': 40.413, 'epoch': 74.0}
+Epoch 75: Train Accuracy = 0.1325, Eval Accuracy = 0.0083
+{'loss': 0.3032, 'grad_norm': 6.032530784606934, 'learning_rate': 1.25e-05, 'epoch': 75.0}
+{'eval_loss': 4.559316158294678, 'eval_runtime': 4.0833, 'eval_samples_per_second': 323.021, 'eval_steps_per_second': 40.408, 'epoch': 75.0}
+Epoch 76: Train Accuracy = 0.1378, Eval Accuracy = 0.0053
+{'loss': 0.3018, 'grad_norm': 12.537423133850098, 'learning_rate': 1.2e-05, 'epoch': 76.0}
+{'eval_loss': 4.554648399353027, 'eval_runtime': 4.0839, 'eval_samples_per_second': 322.974, 'eval_steps_per_second': 40.402, 'epoch': 76.0}
+Epoch 77: Train Accuracy = 0.1384, Eval Accuracy = 0.0091
+{'loss': 0.2982, 'grad_norm': 13.415449142456055, 'learning_rate': 1.1500000000000002e-05, 'epoch': 77.0}
+{'eval_loss': 4.566169738769531, 'eval_runtime': 4.0826, 'eval_samples_per_second': 323.077, 'eval_steps_per_second': 40.415, 'epoch': 77.0}
+Epoch 78: Train Accuracy = 0.1207, Eval Accuracy = 0.0053
+{'loss': 0.2934, 'grad_norm': 4.591648578643799, 'learning_rate': 1.1000000000000001e-05, 'epoch': 78.0}
+{'eval_loss': 4.581259250640869, 'eval_runtime': 4.0821, 'eval_samples_per_second': 323.119, 'eval_steps_per_second': 40.42, 'epoch': 78.0}
+Epoch 79: Train Accuracy = 0.1246, Eval Accuracy = 0.0083
+{'loss': 0.2919, 'grad_norm': 9.762975692749023, 'learning_rate': 1.05e-05, 'epoch': 79.0}
+{'eval_loss': 4.594301223754883, 'eval_runtime': 4.0872, 'eval_samples_per_second': 322.717, 'eval_steps_per_second': 40.37, 'epoch': 79.0}
+Epoch 80: Train Accuracy = 0.1408, Eval Accuracy = 0.0053
+{'loss': 0.2904, 'grad_norm': 6.6357293128967285, 'learning_rate': 1e-05, 'epoch': 80.0}
+{'eval_loss': 4.594197750091553, 'eval_runtime': 4.0822, 'eval_samples_per_second': 323.107, 'eval_steps_per_second': 40.419, 'epoch': 80.0}
+Epoch 81: Train Accuracy = 0.1327, Eval Accuracy = 0.0045
+{'loss': 0.2867, 'grad_norm': 4.2960381507873535, 'learning_rate': 9.5e-06, 'epoch': 81.0}
+{'eval_loss': 4.61171293258667, 'eval_runtime': 4.0826, 'eval_samples_per_second': 323.08, 'eval_steps_per_second': 40.416, 'epoch': 81.0}
+Epoch 82: Train Accuracy = 0.1174, Eval Accuracy = 0.0053
+{'loss': 0.2846, 'grad_norm': 5.959754943847656, 'learning_rate': 9e-06, 'epoch': 82.0}
+{'eval_loss': 4.616739749908447, 'eval_runtime': 4.0828, 'eval_samples_per_second': 323.063, 'eval_steps_per_second': 40.414, 'epoch': 82.0}
+Epoch 83: Train Accuracy = 0.1239, Eval Accuracy = 0.0038
+{'loss': 0.2829, 'grad_norm': 8.059744834899902, 'learning_rate': 8.500000000000002e-06, 'epoch': 83.0}
+{'eval_loss': 4.6218743324279785, 'eval_runtime': 4.083, 'eval_samples_per_second': 323.046, 'eval_steps_per_second': 40.411, 'epoch': 83.0}
+Epoch 84: Train Accuracy = 0.1298, Eval Accuracy = 0.0068
+{'loss': 0.2814, 'grad_norm': 10.057018280029297, 'learning_rate': 8.000000000000001e-06, 'epoch': 84.0}
+{'eval_loss': 4.62542200088501, 'eval_runtime': 4.0828, 'eval_samples_per_second': 323.061, 'eval_steps_per_second': 40.413, 'epoch': 84.0}
+Epoch 85: Train Accuracy = 0.1287, Eval Accuracy = 0.0061
+{'loss': 0.2794, 'grad_norm': 5.5922064781188965, 'learning_rate': 7.5e-06, 'epoch': 85.0}
+{'eval_loss': 4.63078498840332, 'eval_runtime': 4.0811, 'eval_samples_per_second': 323.198, 'eval_steps_per_second': 40.43, 'epoch': 85.0}
+Epoch 86: Train Accuracy = 0.1231, Eval Accuracy = 0.0061
+{'loss': 0.277, 'grad_norm': 5.506251335144043, 'learning_rate': 7.000000000000001e-06, 'epoch': 86.0}
+{'eval_loss': 4.634437561035156, 'eval_runtime': 4.0836, 'eval_samples_per_second': 323.001, 'eval_steps_per_second': 40.406, 'epoch': 86.0}
+Epoch 87: Train Accuracy = 0.1434, Eval Accuracy = 0.0076
+{'loss': 0.2759, 'grad_norm': 5.881998062133789, 'learning_rate': 6.5000000000000004e-06, 'epoch': 87.0}
+{'eval_loss': 4.6439337730407715, 'eval_runtime': 4.0808, 'eval_samples_per_second': 323.222, 'eval_steps_per_second': 40.433, 'epoch': 87.0}
+Epoch 88: Train Accuracy = 0.1436, Eval Accuracy = 0.0068
+{'loss': 0.2731, 'grad_norm': 5.825833797454834, 'learning_rate': 6e-06, 'epoch': 88.0}
+{'eval_loss': 4.646842956542969, 'eval_runtime': 4.0833, 'eval_samples_per_second': 323.023, 'eval_steps_per_second': 40.408, 'epoch': 88.0}
+Epoch 89: Train Accuracy = 0.1321, Eval Accuracy = 0.0068
+{'loss': 0.2724, 'grad_norm': 5.80106258392334, 'learning_rate': 5.500000000000001e-06, 'epoch': 89.0}
+{'eval_loss': 4.6511383056640625, 'eval_runtime': 4.0842, 'eval_samples_per_second': 322.956, 'eval_steps_per_second': 40.4, 'epoch': 89.0}
+Epoch 90: Train Accuracy = 0.1258, Eval Accuracy = 0.0068
+{'loss': 0.2701, 'grad_norm': 5.799149990081787, 'learning_rate': 5e-06, 'epoch': 90.0}
+{'eval_loss': 4.6571149826049805, 'eval_runtime': 4.0832, 'eval_samples_per_second': 323.028, 'eval_steps_per_second': 40.409, 'epoch': 90.0}
+Epoch 91: Train Accuracy = 0.1307, Eval Accuracy = 0.0083
+{'loss': 0.2692, 'grad_norm': 7.76386022567749, 'learning_rate': 4.5e-06, 'epoch': 91.0}
+{'eval_loss': 4.663722991943359, 'eval_runtime': 4.0829, 'eval_samples_per_second': 323.057, 'eval_steps_per_second': 40.413, 'epoch': 91.0}
+Epoch 92: Train Accuracy = 0.1253, Eval Accuracy = 0.0076
+{'loss': 0.2684, 'grad_norm': 7.128239631652832, 'learning_rate': 4.000000000000001e-06, 'epoch': 92.0}
+{'eval_loss': 4.662027359008789, 'eval_runtime': 4.0844, 'eval_samples_per_second': 322.939, 'eval_steps_per_second': 40.398, 'epoch': 92.0}
+Epoch 93: Train Accuracy = 0.1287, Eval Accuracy = 0.0076
+{'loss': 0.2654, 'grad_norm': 7.914174556732178, 'learning_rate': 3.5000000000000004e-06, 'epoch': 93.0}
+{'eval_loss': 4.669531345367432, 'eval_runtime': 4.0829, 'eval_samples_per_second': 323.056, 'eval_steps_per_second': 40.413, 'epoch': 93.0}
+Epoch 94: Train Accuracy = 0.1274, Eval Accuracy = 0.0076
+{'loss': 0.2651, 'grad_norm': 3.206059694290161, 'learning_rate': 3e-06, 'epoch': 94.0}
+{'eval_loss': 4.671819686889648, 'eval_runtime': 4.0832, 'eval_samples_per_second': 323.028, 'eval_steps_per_second': 40.409, 'epoch': 94.0}
+Epoch 95: Train Accuracy = 0.1278, Eval Accuracy = 0.0068
+{'loss': 0.2648, 'grad_norm': 3.562807321548462, 'learning_rate': 2.5e-06, 'epoch': 95.0}
+{'eval_loss': 4.674695014953613, 'eval_runtime': 4.0833, 'eval_samples_per_second': 323.02, 'eval_steps_per_second': 40.408, 'epoch': 95.0}
+Epoch 96: Train Accuracy = 0.1287, Eval Accuracy = 0.0068
+{'loss': 0.2649, 'grad_norm': 6.353667259216309, 'learning_rate': 2.0000000000000003e-06, 'epoch': 96.0}
+{'eval_loss': 4.672523021697998, 'eval_runtime': 4.0822, 'eval_samples_per_second': 323.111, 'eval_steps_per_second': 40.419, 'epoch': 96.0}
+Epoch 97: Train Accuracy = 0.1334, Eval Accuracy = 0.0068
+{'loss': 0.2629, 'grad_norm': 7.394099712371826, 'learning_rate': 1.5e-06, 'epoch': 97.0}
+{'eval_loss': 4.676612854003906, 'eval_runtime': 4.081, 'eval_samples_per_second': 323.203, 'eval_steps_per_second': 40.431, 'epoch': 97.0}
+Epoch 98: Train Accuracy = 0.1322, Eval Accuracy = 0.0061
+{'loss': 0.2611, 'grad_norm': 3.93731951713562, 'learning_rate': 1.0000000000000002e-06, 'epoch': 98.0}
+{'eval_loss': 4.677156925201416, 'eval_runtime': 4.0811, 'eval_samples_per_second': 323.197, 'eval_steps_per_second': 40.43, 'epoch': 98.0}
+Epoch 99: Train Accuracy = 0.1334, Eval Accuracy = 0.0068
+{'loss': 0.2617, 'grad_norm': 9.107754707336426, 'learning_rate': 5.000000000000001e-07, 'epoch': 99.0}
+{'eval_loss': 4.6786041259765625, 'eval_runtime': 4.0812, 'eval_samples_per_second': 323.186, 'eval_steps_per_second': 40.429, 'epoch': 99.0}
+Epoch 100: Train Accuracy = 0.1341, Eval Accuracy = 0.0068
+{'loss': 0.2621, 'grad_norm': 4.56710958480835, 'learning_rate': 0.0, 'epoch': 100.0}
+{'eval_loss': 4.678449630737305, 'eval_runtime': 4.0808, 'eval_samples_per_second': 323.222, 'eval_steps_per_second': 40.433, 'epoch': 100.0}
+{'train_runtime': 34348.0767, 'train_samples_per_second': 21.757, 'train_steps_per_second': 2.722, 'train_loss': 0.7073955939797794, 'epoch': 100.0}
