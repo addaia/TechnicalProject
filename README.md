@@ -6,12 +6,13 @@ This report explores the importance of LLMs within mathematical reasoning. Mathe
 The baseline benchmark achieves 3 \% accuracy, where larger LLMs achieve up to 80 \%. In contrast, the base models underperform (under 2 \%). Through several training methods: Supervised Fine Tuning (SFT), Chain of Thought (CoT), and a custom Code Evaluator (CE) on a custom built dataset for this report GSM8K-v2. \texttt{DistilGPT2} accuracy rises to over 10 \% (\texttt{TinyLLM} to 2.2 \%), rivalling some LLMs with nearly 100 times the number of parameters. Overall, the results demonstrate that targeted training methods critically shape LLM reasoning. These findings suggest that democratising AI  through targeted training can foster cost-effective, energy-efficient solutions across diverse domains.
 
 ## REPOSITORY Structure
-- **POSTER/**: Code to generate plots and data for the poster.
-- **REPORT/**: All other code related to running experiments, plots, etc.
+- **Models**: Models weights (employ base tokenizer of model). 
+- **Poster**: Code to generate plots and data for the poster.
+- **Report**: All other code related to running experiments, plots, etc.
 
 ## POSTER
 ### Overview
-This folder contains code specifically designed to generate the necessary plots and data for the poster presentation. These visualizations summarise key findings and results from the experiments in the report. 
+This folder contains code specifically designed to generate the necessary plots and data for the poster presentation. These visualisations summarise key findings and results from the experiments in the report. 
 
 You can view the poster here:
 [Poster - A Comparative Analysis of Reasoning in LLMs](Poster/Poster.pdf)
