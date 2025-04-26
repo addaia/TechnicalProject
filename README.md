@@ -41,6 +41,22 @@ N/A
 
 #### Results
 
+##### 4.1 Benchmarks
+
+- **Baseline**
+    - `ML_GSM8K.ipynb`: Code + plot to determine baseline.
+
+- **Upper-bound**
+    - `lllm.ipynb`: Includes large scale LLM comparison (Figure 4.2) - Accuracy vs Size. 
+
+#### 4.2 Analysis into small LLMs
+
+#### 4.3 Summary
+
+- `lllm.ipynb`: Last cell summarises the results (Figure 4.6). Which are:
+
+![Summary](./Report/summary_results.pdf)
+
 #### Discussion
 
 #### Conlsuion
